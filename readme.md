@@ -1,1 +1,1 @@
-<h1>Crypto Kitty fork project</h1>
+<h1>Crypto-Kitties fork project</h1>
