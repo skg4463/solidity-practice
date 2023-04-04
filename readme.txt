@@ -1,1 +1,0 @@
-Crypto Kitty fork project
